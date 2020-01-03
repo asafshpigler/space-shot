@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Space Shot",
+"productVersion": "0.1",
+"dataUrl": "spaceshot_web.data.unityweb",
+"asmCodeUrl": "spaceshot_web.asm.code.unityweb",
+"asmMemoryUrl": "spaceshot_web.asm.memory.unityweb",
+"asmFrameworkUrl": "spaceshot_web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
